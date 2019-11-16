@@ -1,0 +1,10 @@
+.idea
+composer.lock
+*.log
+thinkphp
+runtime
+ErrorFiles
+u.php
+*.iml
+*.xml
+
